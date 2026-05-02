@@ -1,0 +1,9 @@
+Sample_ID,LLM_Identification,,,Anaysis_Notes
+S-001,"Subject: implied; Object: माम्, क्षेत्रज्ञम्",,,Correct morphological identification using accusative (-am) endings.
+S-002,"Subject: लोकः, यः; Object: none",,,Correctly handled multiple clauses and the absence of an object.
+S-003,Subject: कर्माणि (passive); Agent: गुणैः,,,Partial Success: Used contextual passive interpretation rather than strict morphology.
+S-004,"Subject: नरः; Object: वासांसि, जीर्णानि, नवानि, अपराणि",,,Correct suffix-based reasoning for plural accusative (-āni) forms.
+S-005,Subject: आपः; Object: समुद्रम्,,,Correct use of verb agreement and suffix analysis.
+S-006,Subject: implied; Object: आत्मानम्,,,Correctly identified accusative object and implied subject.
+S-007,Refused / Meta-explanation,,,Failure: LLM engaged in meta-talk and failed to perform the grammatical task.
+S-008,Subject: त्वम् (primary); Object: none,,,Correct after prompt refinement; handled a nominative-only list.
