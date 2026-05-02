@@ -1,0 +1,1184 @@
+[
+    {
+        "verse_id": "BG_2.47",
+        "text_raw": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन ।",
+        "text_split": ["कर्मणि", "एव", "अधिकारः", "ते", "मा", "फलेषु", "कदाचन"],
+        "analysis": [
+            {"word": "कर्मणि", "case": "Locative"},
+            {"word": "अधिकारः", "case": "Nominative"},
+            {"word": "फलेषु", "case": "Locative Plural"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_2.20",
+        "text_raw": "न जायते म्रियते वा कदाचित् ।",
+        "text_split": ["न", "जायते", "म्रियते", "वा", "कदाचित्"],
+        "analysis": [],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_2.13",
+        "text_raw": "देहिनोऽस्मिन्यथा देहे कौमारं यौवनं जरा ।",
+        "text_split": ["देहिनः", "अस्मिन्", "यथा", "देहे", "कौमारम्", "यौवनम्", "जरा"],
+        "analysis": [
+            {"word": "देहिनः", "case": "Genitive"},
+            {"word": "देहे", "case": "Locative"},
+            {"word": "कौमारम्", "case": "Accusative"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_2.62",
+        "text_raw": "ध्यायतो विषयान्पुंसः सङ्गस्तेषूपजायते ।",
+        "text_split": ["ध्यायतः", "विषयान्", "पुंसः", "सङ्गः", "तेषु", "उपजायते"],
+        "analysis": [
+            {"word": "विषयान्", "case": "Accusative Plural"},
+            {"word": "पुंसः", "case": "Genitive"},
+            {"word": "सङ्गः", "case": "Nominative"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_3.30",
+        "text_raw": "मयि सर्वाणि कर्माणि संन्यस्याध्यात्मचेतसा ।",
+        "text_split": ["मयि", "सर्वाणि", "कर्माणि", "संन्यस्य", "अध्यात्मचेतसा"],
+        "analysis": [
+            {"word": "मयि", "case": "Locative"},
+            {"word": "कर्माणि", "case": "Accusative Plural"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_2.22",
+        "text_raw": "वासांसि जीर्णानि यथा विहाय नवानि गृह्णाति नरोऽपराणि ।",
+        "text_split": ["वासांसि", "जीर्णानि", "यथा", "विहाय", "नवानि", "गृह्णाति", "नरः", "अपराणि"],
+        "analysis": [
+            {"word": "नरः", "case": "Nominative"},
+            {"word": "वासांसि", "case": "Accusative Plural"},
+            {"word": "नवानि", "case": "Accusative Plural"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_3.27",
+        "text_raw": "प्रकृतेः क्रियमाणानि गुणैः कर्माणि सर्वशः ।",
+        "text_split": ["प्रकृतेः", "क्रियमाणानि", "गुणैः", "कर्माणि", "सर्वशः"],
+        "analysis": [
+            {"word": "प्रकृतेः", "case": "Genitive"},
+            {"word": "गुणैः", "case": "Instrumental Plural"},
+            {"word": "कर्माणि", "case": "Accusative Plural"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_15.1",
+        "text_raw": "ऊर्ध्वमूलमधःशाखमश्वत्थं प्राहुरव्ययम् ।",
+        "text_split": ["ऊर्ध्वमूलम्", "अधःशाखम्", "अश्वत्थम्", "प्राहुः", "अव्ययम्"],
+        "analysis": [
+            {"word": "अश्वत्थम्", "case": "Accusative"},
+            {"word": "प्राहुः", "case": "Verb"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_18.61",
+        "text_raw": "ईश्वरः सर्वभूतानां हृद्देशेऽर्जुन तिष्ठति ।",
+        "text_split": ["ईश्वरः", "सर्वभूतानाम्", "हृद्देशे", "अर्जुन", "तिष्ठति"],
+        "analysis": [
+            {"word": "ईश्वरः", "case": "Nominative"},
+            {"word": "सर्वभूतानाम्", "case": "Genitive Plural"},
+            {"word": "हृद्देशे", "case": "Locative"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_5.8",
+        "text_raw": "नैव किञ्चित्करोमीति युक्तो मन्येत तत्त्ववित् ।",
+        "text_split": ["न", "एव", "किञ्चित्", "करोमि", "इति", "युक्तः", "मन्येत", "तत्त्ववित्"],
+        "analysis": [
+            {"word": "युक्तः", "case": "Nominative"},
+            {"word": "तत्त्ववित्", "case": "Nominative"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_2.67",
+        "text_raw": "इन्द्रियाणां हि चरतां यन्मनोऽनुविधीयते ।",
+        "text_split": ["इन्द्रियाणाम्", "हि", "चरताम्", "यत्", "मनः", "अनुविधीयते"],
+        "analysis": [
+            {"word": "इन्द्रियाणाम्", "case": "Genitive Plural"},
+            {"word": "मनः", "case": "Nominative"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_2.69",
+        "text_raw": "या निशा सर्वभूतानां तस्यां जागर्ति संयमी ।",
+        "text_split": ["या", "निशा", "सर्वभूतानाम्", "तस्याम्", "जागर्ति", "संयमी"],
+        "analysis": [
+            {"word": "निशा", "case": "Nominative"},
+            {"word": "सर्वभूतानाम्", "case": "Genitive Plural"},
+            {"word": "तस्याम्", "case": "Locative"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_3.19",
+        "text_raw": "तस्मादसक्तः सततं कार्यं कर्म समाचर ।",
+        "text_split": ["तस्मात्", "असक्तः", "सततम्", "कार्यं", "कर्म", "समाचर"],
+        "analysis": [
+            {"word": "तस्मात्", "case": "Ablative"},
+            {"word": "असक्तः", "case": "Nominative"},
+            {"word": "कार्यं", "case": "Accusative"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_4.18",
+        "text_raw": "कर्मण्यकर्म यः पश्येदकर्मणि च कर्म यः ।",
+        "text_split": ["कर्मणि", "अकर्म", "यः", "पश्येत्", "अकर्मणि", "च", "कर्म", "यः"],
+        "analysis": [
+            {"word": "कर्मणि", "case": "Locative"},
+            {"word": "अकर्मणि", "case": "Locative"},
+            {"word": "यः", "case": "Nominative"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_5.10",
+        "text_raw": "लिप्यते न स पापेन पद्मपत्रमिवाम्भसा ।",
+        "text_split": ["लिप्यते", "न", "सः", "पापेन", "पद्मपत्रम्", "इव", "अम्भसा"],
+        "analysis": [
+            {"word": "सः", "case": "Nominative"},
+            {"word": "पापेन", "case": "Instrumental"},
+            {"word": "अम्भसा", "case": "Instrumental"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_6.34",
+        "text_raw": "चञ्चलं हि मनः कृष्ण प्रमाथि बलवद्दृढम् ।",
+        "text_split": ["चञ्चलम्", "हि", "मनः", "कृष्ण", "प्रमाथि", "बलवत्", "दृढम्"],
+        "analysis": [
+            {"word": "मनः", "case": "Nominative"},
+            {"word": "चञ्चलम्", "case": "Predicate"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_7.3",
+        "text_raw": "मनुष्याणां सहस्रेषु कश्चिद्यतति सिद्धये ।",
+        "text_split": ["मनुष्याणाम्", "सहस्रेषु", "कश्चित्", "यतति", "सिद्धये"],
+        "analysis": [
+            {"word": "मनुष्याणाम्", "case": "Genitive Plural"},
+            {"word": "सहस्रेषु", "case": "Locative Plural"},
+            {"word": "सिद्धये", "case": "Dative"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_9.22",
+        "text_raw": "अनन्याश्चिन्तयन्तो मां ये जनाः पर्युपासते ।",
+        "text_split": ["अनन्याः", "चिन्तयन्तः", "माम्", "ये", "जनाः", "पर्युपासते"],
+        "analysis": [
+            {"word": "जनाः", "case": "Nominative Plural"},
+            {"word": "माम्", "case": "Accusative"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_10.41",
+        "text_raw": "यद्यद्विभूतिमत्सत्त्वं श्रीमदूर्जितमेव वा ।",
+        "text_split": ["यत्", "यत्", "विभूतिमत्", "सत्त्वम्", "श्रीमन्", "ऊर्जितम्", "एव", "वा"],
+        "analysis": [
+            {"word": "सत्त्वम्", "case": "Nominative"},
+            {"word": "ऊर्जितम्", "case": "Predicate"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_11.33",
+        "text_raw": "मयैवैते निहताः पूर्वमेव निमित्तमात्रं भव सव्यसाचिन् ।",
+        "text_split": ["मया", "एव", "एते", "निहताः", "पूर्वम्", "एव", "निमित्तमात्रम्", "भव", "सव्यसाचिन्"],
+        "analysis": [
+            {"word": "मया", "case": "Instrumental"},
+            {"word": "एते", "case": "Nominative Plural"},
+            {"word": "निमित्तमात्रम्", "case": "Accusative"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_2.38",
+        "text_raw": "सुखदुःखे समे कृत्वा लाभालाभौ जयाजयौ ।",
+        "text_split": ["सुखदुःखे", "समे", "कृत्वा", "लाभालाभौ", "जयाजयौ"],
+        "analysis": [
+            {"word": "सुखदुःखे", "case": "Locative Dual"},
+            {"word": "लाभालाभौ", "case": "Nominative Dual"},
+            {"word": "जयाजयौ", "case": "Nominative Dual"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_2.50",
+        "text_raw": "बुद्धियुक्तो जहातीह उभे सुकृतदुष्कृते ।",
+        "text_split": ["बुद्धियुक्तः", "जहाति", "इह", "उभे", "सुकृतदुष्कृते"],
+        "analysis": [
+            {"word": "बुद्धियुक्तः", "case": "Nominative"},
+            {"word": "उभे", "case": "Accusative Dual"},
+            {"word": "सुकृतदुष्कृते", "case": "Accusative Dual"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_3.8",
+        "text_raw": "नियतं कुरु कर्म त्वं कर्म ज्यायो ह्यकर्मणः ।",
+        "text_split": ["नियतं", "कुरु", "कर्म", "त्वम्", "कर्म", "ज्यायः", "हि", "अकर्मणः"],
+        "analysis": [
+            {"word": "त्वम्", "case": "Nominative"},
+            {"word": "कर्म", "case": "Accusative"},
+            {"word": "अकर्मणः", "case": "Ablative"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_3.10",
+        "text_raw": "सहयज्ञाः प्रजाः सृष्ट्वा पुरोवाच प्रजापतिः ।",
+        "text_split": ["सहयज्ञाः", "प्रजाः", "सृष्ट्वा", "पुरा", "उवाच", "प्रजापतिः"],
+        "analysis": [
+            {"word": "प्रजापतिः", "case": "Nominative"},
+            {"word": "प्रजाः", "case": "Accusative Plural"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_3.35",
+        "text_raw": "श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात् ।",
+        "text_split": ["श्रेयान्", "स्वधर्मः", "विगुणः", "परधर्मात्", "स्वनुष्ठितात्"],
+        "analysis": [
+            {"word": "स्वधर्मः", "case": "Nominative"},
+            {"word": "परधर्मात्", "case": "Ablative"},
+            {"word": "स्वनुष्ठितात्", "case": "Ablative"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_4.24",
+        "text_raw": "ब्रह्मार्पणं ब्रह्म हविर्ब्रह्माग्नौ ब्रह्मणा हुतम् ।",
+        "text_split": ["ब्रह्मार्पणम्", "ब्रह्म", "हविः", "ब्रह्माग्नौ", "ब्रह्मणा", "हुतम्"],
+        "analysis": [
+            {"word": "ब्रह्मार्पणम्", "case": "Nominative"},
+            {"word": "ब्रह्मणा", "case": "Instrumental"},
+            {"word": "ब्रह्माग्नौ", "case": "Locative"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_5.11",
+        "text_raw": "कायेन मनसा बुद्ध्या केवलैरिन्द्रियैरपि ।",
+        "text_split": ["कायेन", "मनसा", "बुद्ध्या", "केवलैः", "इन्द्रियैः", "अपि"],
+        "analysis": [
+            {"word": "कायेन", "case": "Instrumental"},
+            {"word": "मनसा", "case": "Instrumental"},
+            {"word": "बुद्ध्या", "case": "Instrumental"},
+            {"word": "इन्द्रियैः", "case": "Instrumental Plural"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_6.26",
+        "text_raw": "यतो यतो निश्चरति मनश्चञ्चलमस्थिरम् ।",
+        "text_split": ["यतः", "यतः", "निश्चरति", "मनः", "चञ्चलम्", "अस्थिरम्"],
+        "analysis": [
+            {"word": "मनः", "case": "Nominative"},
+            {"word": "चञ्चलम्", "case": "Predicate"},
+            {"word": "अस्थिरम्", "case": "Predicate"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_9.27",
+        "text_raw": "यत्करोषि यदश्नासि यज्जुहोषि ददासि यत् ।",
+        "text_split": ["यत्", "करोषि", "यत्", "अश्नासि", "यत्", "जुहोषि", "ददासि", "यत्"],
+        "analysis": [
+            {"word": "यत्", "case": "Accusative"},
+            {"word": "करोषि", "case": "Verb"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_12.13",
+        "text_raw": "अद्वेष्टा सर्वभूतानां मैत्रः करुण एव च ।",
+        "text_split": ["अद्वेष्टा", "सर्वभूतानाम्", "मैत्रः", "करुणः", "एव", "च"],
+        "analysis": [
+            {"word": "अद्वेष्टा", "case": "Nominative"},
+            {"word": "सर्वभूतानाम्", "case": "Genitive Plural"},
+            {"word": "मैत्रः", "case": "Predicate"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_2.29",
+        "text_raw": "आश्चर्यवत्पश्यति कश्चिदेनम् ।",
+        "text_split": ["आश्चर्यवत्", "पश्यति", "कश्चित्", "एनम्"],
+        "analysis": [
+            {"word": "कश्चित्", "case": "Nominative"},
+            {"word": "एनम्", "case": "Accusative"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_2.41",
+        "text_raw": "व्यवसायात्मिका बुद्धिरेकेह कुरुनन्दन ।",
+        "text_split": ["व्यवसायात्मिका", "बुद्धिः", "एका", "इह", "कुरुनन्दन"],
+        "analysis": [
+            {"word": "बुद्धिः", "case": "Nominative"},
+            {"word": "एका", "case": "Predicate"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_2.46",
+        "text_raw": "यावानर्थ उदपाने सर्वतः सम्प्लुतोदके ।",
+        "text_split": ["यावान्", "अर्थः", "उदपाने", "सर्वतः", "सम्प्लुतोदके"],
+        "analysis": [
+            {"word": "अर्थः", "case": "Nominative"},
+            {"word": "उदपाने", "case": "Locative"},
+            {"word": "सम्प्लुतोदके", "case": "Locative"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_2.70",
+        "text_raw": "आपूर्यमाणमचलप्रतिष्ठं समुद्रमापः प्रविशन्ति यद्वत् ।",
+        "text_split": ["आपूर्यमाणम्", "अचलप्रतिष्ठम्", "समुद्रम्", "आपः", "प्रविशन्ति", "यद्वत्"],
+        "analysis": [
+            {"word": "समुद्रम्", "case": "Accusative"},
+            {"word": "आपः", "case": "Nominative Plural"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_4.1",
+        "text_raw": "इमं विवस्वते योगं प्रोक्तवानहमव्ययम् ।",
+        "text_split": ["इमम्", "विवस्वते", "योगम्", "प्रोक्तवान्", "अहम्", "अव्ययम्"],
+        "analysis": [
+            {"word": "अहम्", "case": "Nominative"},
+            {"word": "योगम्", "case": "Accusative"},
+            {"word": "विवस्वते", "case": "Dative"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_4.13",
+        "text_raw": "चातुर्वर्ण्यं मया सृष्टं गुणकर्मविभागशः ।",
+        "text_split": ["चातुर्वर्ण्यम्", "मया", "सृष्टम्", "गुणकर्मविभागशः"],
+        "analysis": [
+            {"word": "चातुर्वर्ण्यम्", "case": "Accusative"},
+            {"word": "मया", "case": "Instrumental"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_11.10",
+        "text_raw": "अनेकवक्त्रनयनमनेकाद्भुतदर्शनम् ।",
+        "text_split": ["अनेकवक्त्रनयनम्", "अनेकाद्भुतदर्शनम्"],
+        "analysis": [
+            {"word": "अनेकवक्त्रनयनम्", "case": "Accusative"},
+            {"word": "अनेकाद्भुतदर्शनम्", "case": "Accusative"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_11.19",
+        "text_raw": "अनादिमध्यान्तमनन्तवीर्यमनन्तबाहुं शशिसूर्यनेत्रम् ।",
+        "text_split": ["अनादिमध्यान्तम्", "अनन्तवीर्यम्", "अनन्तबाहुम्", "शशिसूर्यनेत्रम्"],
+        "analysis": [
+            {"word": "अनन्तवीर्यम्", "case": "Accusative"},
+            {"word": "अनन्तबाहुम्", "case": "Accusative"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_13.2",
+        "text_raw": "क्षेत्रज्ञं चापि मां विद्धि सर्वक्षेत्रेषु भारत ।",
+        "text_split": ["क्षेत्रज्ञम्", "च", "अपि", "माम्", "विद्धि", "सर्वक्षेत्रेषु", "भारत"],
+        "analysis": [
+            {"word": "माम्", "case": "Accusative"},
+            {"word": "सर्वक्षेत्रेषु", "case": "Locative Plural"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_15.19",
+        "text_raw": "यो मामेवमसम्मूढो जानाति पुरुषोत्तमम् ।",
+        "text_split": ["यः", "माम्", "एवम्", "असम्मूढः", "जानाति", "पुरुषोत्तमम्"],
+        "analysis": [
+            {"word": "यः", "case": "Nominative"},
+            {"word": "माम्", "case": "Accusative"},
+            {"word": "पुरुषोत्तमम्", "case": "Accusative"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_2.56",
+        "text_raw": "दुःखेष्वनुद्विग्नमनाः सुखेषु विगतस्पृहः ।",
+        "text_split": ["दुःखेषु", "अनुद्विग्नमनाः", "सुखेषु", "विगतस्पृहः"],
+        "analysis": [
+            {"word": "दुःखेषु", "case": "Locative Plural"},
+            {"word": "सुखेषु", "case": "Locative Plural"},
+            {"word": "विगतस्पृहः", "case": "Nominative"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_2.59",
+        "text_raw": "विषया विनिवर्तन्ते निराहारस्य देहिनः ।",
+        "text_split": ["विषयाः", "विनिवर्तन्ते", "निराहारस्य", "देहिनः"],
+        "analysis": [
+            {"word": "विषयाः", "case": "Nominative Plural"},
+            {"word": "निराहारस्य", "case": "Genitive"},
+            {"word": "देहिनः", "case": "Genitive"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_3.36",
+        "text_raw": "अथ केन प्रयुक्तोऽयं पापं चरति पूरुषः ।",
+        "text_split": ["अथ", "केन", "प्रयुक्तः", "अयम्", "पापम्", "चरति", "पूरुषः"],
+        "analysis": [
+            {"word": "केन", "case": "Instrumental"},
+            {"word": "अयम्", "case": "Nominative"},
+            {"word": "पापम्", "case": "Accusative"},
+            {"word": "पूरुषः", "case": "Nominative"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_4.19",
+        "text_raw": "ज्ञानाग्निदग्धकर्माणं तमाहुः पण्डितं बुधाः ।",
+        "text_split": ["ज्ञानाग्निदग्धकर्माणम्", "तम्", "आहुः", "पण्डितम्", "बुधाः"],
+        "analysis": [
+            {"word": "तम्", "case": "Accusative"},
+            {"word": "पण्डितम्", "case": "Accusative"},
+            {"word": "बुधाः", "case": "Nominative Plural"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_5.18",
+        "text_raw": "विद्याविनयसम्पन्ने ब्राह्मणे गवि हस्तिनि ।",
+        "text_split": ["विद्याविनयसम्पन्ने", "ब्राह्मणे", "गवि", "हस्तिनि"],
+        "analysis": [
+            {"word": "ब्राह्मणे", "case": "Locative"},
+            {"word": "गवि", "case": "Locative"},
+            {"word": "हस्तिनि", "case": "Locative"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_6.46",
+        "text_raw": "तपस्विभ्योऽधिको योगी ज्ञानिभ्योऽपि मतोऽधिकः ।",
+        "text_split": ["तपस्विभ्यः", "अधिकः", "योगी", "ज्ञानिभ्यः", "अपि", "मतः", "अधिकः"],
+        "analysis": [
+            {"word": "तपस्विभ्यः", "case": "Ablative Plural"},
+            {"word": "योगी", "case": "Nominative"},
+            {"word": "ज्ञानिभ्यः", "case": "Ablative Plural"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_9.30",
+        "text_raw": "अपि चेत्सुदुराचारो भजते मामनन्यभाक् ।",
+        "text_split": ["अपि", "चेत्", "सुदुराचारः", "भजते", "माम्", "अनन्यभाक्"],
+        "analysis": [
+            {"word": "सुदुराचारः", "case": "Nominative"},
+            {"word": "माम्", "case": "Accusative"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_11.3",
+        "text_raw": "एवमेतद्यथात्थ त्वमात्मानं परमेश्वर ।",
+        "text_split": ["एवम्", "एतत्", "यथा", "आत्थ", "त्वम्", "आत्मानम्", "परमेश्वर"],
+        "analysis": [
+            {"word": "त्वम्", "case": "Nominative"},
+            {"word": "आत्मानम्", "case": "Accusative"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_15.5",
+        "text_raw": "निर्मानमोहा जितसङ्गदोषा अध्यात्मनित्या विनिवृत्तकामाः ।",
+        "text_split": ["निर्मानमोहाः", "जितसङ्गदोषाः", "अध्यात्मनित्याः", "विनिवृत्तकामाः"],
+        "analysis": [
+            {"word": "निर्मानमोहाः", "case": "Nominative Plural"},
+            {"word": "जितसङ्गदोषाः", "case": "Nominative Plural"},
+            {"word": "विनिवृत्तकामाः", "case": "Nominative Plural"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_18.73",
+        "text_raw": "नष्टो मोहः स्मृतिर्लब्धा त्वत्प्रसादान्मयाच्युत ।",
+        "text_split": ["नष्टः", "मोहः", "स्मृतिः", "लब्धा", "त्वत्प्रसादात्", "मया", "अच्युत"],
+        "analysis": [
+            {"word": "मोहः", "case": "Nominative"},
+            {"word": "स्मृतिः", "case": "Nominative"},
+            {"word": "त्वत्प्रसादात्", "case": "Ablative"},
+            {"word": "मया", "case": "Instrumental"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+
+    {
+        "verse_id": "BG_2.5",
+        "text_raw": "गुरूनहत्वा हि महानुभावान् श्रेयो भोक्तुं भैक्ष्यमपीह लोके ।",
+        "text_split": ["गुरून्", "अहत्वा", "हि", "महानुभावान्", "श्रेयः", "भोक्तुम्", "भैक्ष्यम्", "अपि", "इह", "लोके"],
+        "analysis": [
+            {"word": "गुरून्", "case": "Accusative Plural"},
+            {"word": "महानुभावान्", "case": "Accusative Plural"},
+            {"word": "लोके", "case": "Locative"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_2.11",
+        "text_raw": "अशोच्यानन्वशोचस्त्वं प्रज्ञावादांश्च भाषसे ।",
+        "text_split": ["अशोच्यान्", "अन्वशोचः", "त्वम्", "प्रज्ञावादान्", "च", "भाषसे"],
+        "analysis": [
+            {"word": "अशोच्यान्", "case": "Accusative Plural"},
+            {"word": "त्वम्", "case": "Nominative"},
+            {"word": "प्रज्ञावादान्", "case": "Accusative Plural"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_2.54",
+        "text_raw": "स्थितप्रज्ञस्य का भाषा समाधिस्थस्य केशव ।",
+        "text_split": ["स्थितप्रज्ञस्य", "का", "भाषा", "समाधिस्थस्य", "केशव"],
+        "analysis": [
+            {"word": "स्थितप्रज्ञस्य", "case": "Genitive"},
+            {"word": "भाषा", "case": "Nominative"},
+            {"word": "समाधिस्थस्य", "case": "Genitive"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_2.63",
+        "text_raw": "क्रोधाद्भवति सम्मोहः सम्मोहात्स्मृतिविभ्रमः ।",
+        "text_split": ["क्रोधात्", "भवति", "सम्मोहः", "सम्मोहात्", "स्मृतिविभ्रमः"],
+        "analysis": [
+            {"word": "क्रोधात्", "case": "Ablative"},
+            {"word": "सम्मोहः", "case": "Nominative"},
+            {"word": "सम्मोहात्", "case": "Ablative"},
+            {"word": "स्मृतिविभ्रमः", "case": "Nominative"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_3.14",
+        "text_raw": "अन्नाद्भवन्ति भूतानि पर्जन्यादन्नसम्भवः ।",
+        "text_split": ["अन्नात्", "भवन्ति", "भूतानि", "पर्जन्यात्", "अन्नसम्भवः"],
+        "analysis": [
+            {"word": "अन्नात्", "case": "Ablative"},
+            {"word": "भूतानि", "case": "Nominative Plural"},
+            {"word": "पर्जन्यात्", "case": "Ablative"},
+            {"word": "अन्नसम्भवः", "case": "Nominative"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_5.1",
+        "text_raw": "संन्यासं कर्मणां कृष्ण पुनर्योगं च शंससि ।",
+        "text_split": ["संन्यासम्", "कर्मणाम्", "कृष्ण", "पुनः", "योगम्", "च", "शंससि"],
+        "analysis": [
+            {"word": "संन्यासम्", "case": "Accusative"},
+            {"word": "कर्मणाम्", "case": "Genitive Plural"},
+            {"word": "योगम्", "case": "Accusative"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_6.22",
+        "text_raw": "यं लब्ध्वा चापरं लाभं मन्यते नाधिकं ततः ।",
+        "text_split": ["यम्", "लब्ध्वा", "च", "अपरम्", "लाभम्", "मन्यते", "न", "अधिकम्", "ततः"],
+        "analysis": [
+            {"word": "यम्", "case": "Accusative"},
+            {"word": "लाभम्", "case": "Accusative"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_9.1",
+        "text_raw": "इदं तु ते गुह्यतमं प्रवक्ष्याम्यनसूयवे ।",
+        "text_split": ["इदम्", "तु", "ते", "गुह्यतमम्", "प्रवक्ष्यामि", "अनसूयवे"],
+        "analysis": [
+            {"word": "इदम्", "case": "Accusative"},
+            {"word": "ते", "case": "Dative"},
+            {"word": "अनसूयवे", "case": "Dative"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_10.8",
+        "text_raw": "अहं सर्वस्य प्रभवो मत्तः सर्वं प्रवर्तते ।",
+        "text_split": ["अहम्", "सर्वस्य", "प्रभवः", "मत्तः", "सर्वम्", "प्रवर्तते"],
+        "analysis": [
+            {"word": "अहम्", "case": "Nominative"},
+            {"word": "सर्वस्य", "case": "Genitive"},
+            {"word": "प्रभवः", "case": "Nominative"},
+            {"word": "मत्तः", "case": "Ablative"},
+            {"word": "सर्वम्", "case": "Accusative"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_11.32",
+        "text_raw": "कालोऽस्मि लोकक्षयकृत्प्रवृद्धो लोकान्समाहर्तुमिह प्रवृत्तः ।",
+        "text_split": ["कालः", "अस्मि", "लोकक्षयकृत्", "प्रवृद्धः", "लोकान्", "समाहर्तुम्", "इह", "प्रवृत्तः"],
+        "analysis": [
+            {"word": "कालः", "case": "Nominative"},
+            {"word": "लोकान्", "case": "Accusative Plural"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_18.61",
+        "text_raw": "ईश्वरः सर्वभूतानां हृद्देशेऽर्जुन तिष्ठति ।",
+        "text_split": ["ईश्वरः", "सर्वभूतानाम्", "हृद्देशे", "अर्जुन", "तिष्ठति"],
+        "analysis": [
+            {"word": "ईश्वरः", "case": "Nominative"},
+            {"word": "सर्वभूतानाम्", "case": "Genitive Plural"},
+            {"word": "हृद्देशे", "case": "Locative"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_2.19",
+        "text_raw": "य एनं वेत्ति हन्तारं यश्चैनं मन्यते हतम् ।",
+        "text_split": ["यः", "एनम्", "वेत्ति", "हन्तारम्", "यः", "च", "एनम्", "मन्यते", "हतम्"],
+        "analysis": [
+            {"word": "यः", "case": "Nominative"},
+            {"word": "एनम्", "case": "Accusative"},
+            {"word": "हन्तारम्", "case": "Accusative"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_2.23",
+        "text_raw": "नैनं छिन्दन्ति शस्त्राणि नैनं दहति पावकः ।",
+        "text_split": ["न", "एनम्", "छिन्दन्ति", "शस्त्राणि", "न", "एनम्", "दहति", "पावकः"],
+        "analysis": [
+            {"word": "एनम्", "case": "Accusative"},
+            {"word": "शस्त्राणि", "case": "Nominative Plural"},
+            {"word": "पावकः", "case": "Nominative"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_2.45",
+        "text_raw": "त्रैगुण्यविषया वेदा निस्त्रैगुण्यो भवार्जुन ।",
+        "text_split": ["त्रैगुण्यविषयाः", "वेदाः", "निस्त्रैगुण्यः", "भव", "अर्जुन"],
+        "analysis": [
+            {"word": "वेदाः", "case": "Nominative Plural"},
+            {"word": "निस्त्रैगुण्यः", "case": "Nominative"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_3.5",
+        "text_raw": "न हि कश्चित्क्षणमपि जातु तिष्ठत्यकर्मकृत् ।",
+        "text_split": ["न", "हि", "कश्चित्", "क्षणम्", "अपि", "जातु", "तिष्ठति", "अकर्मकृत्"],
+        "analysis": [
+            {"word": "कश्चित्", "case": "Nominative"},
+            {"word": "क्षणम्", "case": "Accusative"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_4.38",
+        "text_raw": "न हि ज्ञानेन सदृशं पवित्रमिह विद्यते ।",
+        "text_split": ["न", "हि", "ज्ञानेन", "सदृशम्", "पवित्रम्", "इह", "विद्यते"],
+        "analysis": [
+            {"word": "ज्ञानेन", "case": "Instrumental"},
+            {"word": "पवित्रम्", "case": "Nominative"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_5.4",
+        "text_raw": "सांख्ययोगौ पृथग्बालाः प्रवदन्ति न पण्डिताः ।",
+        "text_split": ["सांख्ययोगौ", "पृथक्", "बालाः", "प्रवदन्ति", "न", "पण्डिताः"],
+        "analysis": [
+            {"word": "सांख्ययोगौ", "case": "Nominative Dual"},
+            {"word": "बालाः", "case": "Nominative Plural"},
+            {"word": "पण्डिताः", "case": "Nominative Plural"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_6.29",
+        "text_raw": "सर्वभूतस्थमात्मानं सर्वभूतानि चात्मनि ।",
+        "text_split": ["सर्वभूतस्थम्", "आत्मानम्", "सर्वभूतानि", "च", "आत्मनि"],
+        "analysis": [
+            {"word": "आत्मानम्", "case": "Accusative"},
+            {"word": "सर्वभूतानि", "case": "Accusative Plural"},
+            {"word": "आत्मनि", "case": "Locative"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_9.34",
+        "text_raw": "मन्मना भव मद्भक्तो मद्याजी मां नमस्कुरु ।",
+        "text_split": ["मन्मनाः", "भव", "मद्भक्तः", "मद्याजी", "माम्", "नमस्कुरु"],
+        "analysis": [
+            {"word": "मद्भक्तः", "case": "Nominative"},
+            {"word": "माम्", "case": "Accusative"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_11.39",
+        "text_raw": "वायुर्यमोऽग्निर्वरुणः शशाङ्कः प्रजापतिस्त्वं प्रपितामहश्च ।",
+        "text_split": ["वायुः", "यमः", "अग्निः", "वरुणः", "शशाङ्कः", "प्रजापतिः", "त्वम्", "प्रपितामहः"],
+        "analysis": [
+            {"word": "वायुः", "case": "Nominative"},
+            {"word": "यमः", "case": "Nominative"},
+            {"word": "अग्निः", "case": "Nominative"},
+            {"word": "वरुणः", "case": "Nominative"},
+            {"word": "त्वम्", "case": "Nominative"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_2.20",
+        "text_raw": "न जायते म्रियते वा कदाचिन्नायं भूत्वा भविता वा न भूयः ।",
+        "text_split": ["न", "जायते", "म्रियते", "वा", "कदाचित्", "न", "अयम्", "भूत्वा", "भविता", "वा", "न", "भूयः"],
+        "analysis": [
+            {"word": "अयम्", "case": "Nominative"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_3.9",
+        "text_raw": "यज्ञार्थात्कर्मणोऽन्यत्र लोकोऽयं कर्मबन्धनः ।",
+        "text_split": ["यज्ञार्थात्", "कर्मणः", "अन्यत्र", "लोकः", "अयम्", "कर्मबन्धनः"],
+        "analysis": [
+            {"word": "यज्ञार्थात्", "case": "Ablative"},
+            {"word": "कर्मणः", "case": "Genitive"},
+            {"word": "लोकः", "case": "Nominative"},
+            {"word": "अयम्", "case": "Nominative"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_3.21",
+        "text_raw": "यद्यदाचरति श्रेष्ठस्तत्तदेवेतरो जनः ।",
+        "text_split": ["यत्", "यत्", "आचरति", "श्रेष्ठः", "तत्", "तत्", "एव", "इतरः", "जनः"],
+        "analysis": [
+            {"word": "श्रेष्ठः", "case": "Nominative"},
+            {"word": "इतरः", "case": "Nominative"},
+            {"word": "जनः", "case": "Nominative"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_4.7",
+        "text_raw": "यदा यदा हि धर्मस्य ग्लानिर्भवति भारत ।",
+        "text_split": ["यदा", "यदा", "हि", "धर्मस्य", "ग्लानिः", "भवति", "भारत"],
+        "analysis": [
+            {"word": "धर्मस्य", "case": "Genitive"},
+            {"word": "ग्लानिः", "case": "Nominative"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_4.8",
+        "text_raw": "परित्राणाय साधूनां विनाशाय च दुष्कृताम् ।",
+        "text_split": ["परित्राणाय", "साधूनाम्", "विनाशाय", "च", "दुष्कृताम्"],
+        "analysis": [
+            {"word": "परित्राणाय", "case": "Dative"},
+            {"word": "साधूनाम्", "case": "Genitive Plural"},
+            {"word": "विनाशाय", "case": "Dative"},
+            {"word": "दुष्कृताम्", "case": "Genitive Plural"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_5.7",
+        "text_raw": "योगयुक्तो विशुद्धात्मा विजितात्मा जितेन्द्रियः ।",
+        "text_split": ["योगयुक्तः", "विशुद्धात्मा", "विजितात्मा", "जितेन्द्रियः"],
+        "analysis": [
+            {"word": "योगयुक्तः", "case": "Nominative"},
+            {"word": "विशुद्धात्मा", "case": "Nominative"},
+            {"word": "विजितात्मा", "case": "Nominative"},
+            {"word": "जितेन्द्रियः", "case": "Nominative"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_6.5",
+        "text_raw": "उद्धरेदात्मनात्मानं नात्मानमवसादयेत् ।",
+        "text_split": ["उद्धरेत्", "आत्मना", "आत्मानम्", "न", "आत्मानम्", "अवसादयेत्"],
+        "analysis": [
+            {"word": "आत्मना", "case": "Instrumental"},
+            {"word": "आत्मानम्", "case": "Accusative"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_6.6",
+        "text_raw": "बन्धुरात्मात्मनस्तस्य येनात्मैवात्मना जितः ।",
+        "text_split": ["बन्धुः", "आत्मा", "आत्मनः", "तस्य", "येन", "आत्मा", "एव", "आत्मना", "जितः"],
+        "analysis": [
+            {"word": "बन्धुः", "case": "Nominative"},
+            {"word": "आत्मनः", "case": "Genitive"},
+            {"word": "आत्मना", "case": "Instrumental"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_7.7",
+        "text_raw": "मत्तः परतरं नान्यत्किञ्चिदस्ति धनञ्जय ।",
+        "text_split": ["मत्तः", "परतरम्", "न", "अन्यत्", "किञ्चित्", "अस्ति", "धनञ्जय"],
+        "analysis": [
+            {"word": "मत्तः", "case": "Ablative"},
+            {"word": "परतरम्", "case": "Accusative"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_8.5",
+        "text_raw": "अन्तकाले च मामेव स्मरन्मुक्त्वा कलेवरम् ।",
+        "text_split": ["अन्तकाले", "च", "माम्", "एव", "स्मरन्", "मुक्त्वा", "कलेवरम्"],
+        "analysis": [
+            {"word": "अन्तकाले", "case": "Locative"},
+            {"word": "माम्", "case": "Accusative"},
+            {"word": "कलेवरम्", "case": "Accusative"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_8.6",
+        "text_raw": "यं यं वापि स्मरन्भावं त्यजत्यन्ते कलेवरम् ।",
+        "text_split": ["यम्", "यम्", "वा", "अपि", "स्मरन्", "भावम्", "त्यजति", "अन्ते", "कलेवरम्"],
+        "analysis": [
+            {"word": "यम्", "case": "Accusative"},
+            {"word": "भावम्", "case": "Accusative"},
+            {"word": "कलेवरम्", "case": "Accusative"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_8.7",
+        "text_raw": "तस्मात्सर्वेषु कालेषु मामनुस्मर युध्य च ।",
+        "text_split": ["तस्मात्", "सर्वेषु", "कालेषु", "माम्", "अनुस्मर", "युध्य", "च"],
+        "analysis": [
+            {"word": "तस्मात्", "case": "Ablative"},
+            {"word": "कालेषु", "case": "Locative Plural"},
+            {"word": "माम्", "case": "Accusative"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_9.2",
+        "text_raw": "राजविद्या राजगुह्यं पवित्रमिदमुत्तमम् ।",
+        "text_split": ["राजविद्या", "राजगुह्यम्", "पवित्रम्", "इदम्", "उत्तमम्"],
+        "analysis": [
+            {"word": "राजविद्या", "case": "Nominative"},
+            {"word": "राजगुह्यम्", "case": "Nominative"},
+            {"word": "इदम्", "case": "Nominative"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_9.4",
+        "text_raw": "मया ततमिदं सर्वं जगदव्यक्तमूर्तिना ।",
+        "text_split": ["मया", "ततम्", "इदम्", "सर्वम्", "जगत्", "अव्यक्तमूर्तिना"],
+        "analysis": [
+            {"word": "मया", "case": "Instrumental"},
+            {"word": "इदम्", "case": "Accusative"},
+            {"word": "जगत्", "case": "Accusative"},
+            {"word": "अव्यक्तमूर्तिना", "case": "Instrumental"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_9.7",
+        "text_raw": "सर्वभूतानि कौन्तेय प्रकृतिं यान्ति मामिकाम् ।",
+        "text_split": ["सर्वभूतानि", "कौन्तेय", "प्रकृतिम्", "यान्ति", "मामिकाम्"],
+        "analysis": [
+            {"word": "सर्वभूतानि", "case": "Nominative Plural"},
+            {"word": "प्रकृतिम्", "case": "Accusative"},
+            {"word": "मामिकाम्", "case": "Accusative"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_10.10",
+        "text_raw": "तेषां सततयुक्तानां भजतां प्रीतिपूर्वकम् ।",
+        "text_split": ["तेषाम्", "सततयुक्तानाम्", "भजताम्", "प्रीतिपूर्वकम्"],
+        "analysis": [
+            {"word": "तेषाम्", "case": "Genitive Plural"},
+            {"word": "सततयुक्तानाम्", "case": "Genitive Plural"},
+            {"word": "भजताम्", "case": "Genitive Plural"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_10.11",
+        "text_raw": "तेषामेवानुकम्पार्थमहमज्ञानजं तमः ।",
+        "text_split": ["तेषाम्", "एव", "अनुकम्पार्थम्", "अहम्", "अज्ञानजम्", "तमः"],
+        "analysis": [
+            {"word": "तेषाम्", "case": "Genitive Plural"},
+            {"word": "अहम्", "case": "Nominative"},
+            {"word": "तमः", "case": "Accusative"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_12.15",
+        "text_raw": "यस्मान्नोद्विजते लोको लोकान्नोद्विजते च यः ।",
+        "text_split": ["यस्मात्", "न", "उद्विजते", "लोकः", "लोकात्", "न", "उद्विजते", "च", "यः"],
+        "analysis": [
+            {"word": "यस्मात्", "case": "Ablative"},
+            {"word": "लोकः", "case": "Nominative"},
+            {"word": "लोकात्", "case": "Ablative"},
+            {"word": "यः", "case": "Nominative"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_13.1",
+        "text_raw": "इदं शरीरं कौन्तेय क्षेत्रमित्यभिधीयते ।",
+        "text_split": ["इदम्", "शरीरम्", "कौन्तेय", "क्षेत्रम्", "इति", "अभिधीयते"],
+        "analysis": [
+            {"word": "इदम्", "case": "Nominative"},
+            {"word": "शरीरम्", "case": "Nominative"},
+            {"word": "क्षेत्रम्", "case": "Nominative"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_13.3",
+        "text_raw": "क्षेत्रज्ञं चापि मां विद्धि सर्वक्षेत्रेषु भारत ।",
+        "text_split": ["क्षेत्रज्ञम्", "च", "अपि", "माम्", "विद्धि", "सर्वक्षेत्रेषु", "भारत"],
+        "analysis": [
+            {"word": "क्षेत्रज्ञम्", "case": "Accusative"},
+            {"word": "माम्", "case": "Accusative"},
+            {"word": "सर्वक्षेत्रेषु", "case": "Locative Plural"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_13.7",
+        "text_raw": "अमानित्वमदम्भित्वमहिंसा क्षान्तिरार्जवम् ।",
+        "text_split": ["अमानित्वम्", "अदम्भित्वम्", "अहिंसा", "क्षान्तिः", "आर्जवम्"],
+        "analysis": [
+            {"word": "अमानित्वम्", "case": "Nominative"},
+            {"word": "अहिंसा", "case": "Nominative"},
+            {"word": "क्षान्तिः", "case": "Nominative"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_13.8",
+        "text_raw": "आचार्योपासनं शौचं स्थैर्यमात्मविनिग्रहः ।",
+        "text_split": ["आचार्योपासनम्", "शौचम्", "स्थैर्यम्", "आत्मविनिग्रहः"],
+        "analysis": [
+            {"word": "आचार्योपासनम्", "case": "Nominative"},
+            {"word": "शौचम्", "case": "Nominative"},
+            {"word": "आत्मविनिग्रहः", "case": "Nominative"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_13.9",
+        "text_raw": "इन्द्रियार्थेषु वैराग्यमनहङ्कार एव च ।",
+        "text_split": ["इन्द्रियार्थेषु", "वैराग्यम्", "अनहङ्कारः", "एव", "च"],
+        "analysis": [
+            {"word": "इन्द्रियार्थेषु", "case": "Locative Plural"},
+            {"word": "वैराग्यम्", "case": "Nominative"},
+            {"word": "अनहङ्कारः", "case": "Nominative"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_14.5",
+        "text_raw": "सत्त्वं रजस्तम इति गुणाः प्रकृतिसम्भवाः ।",
+        "text_split": ["सत्त्वम्", "रजः", "तमः", "इति", "गुणाः", "प्रकृतिसम्भवाः"],
+        "analysis": [
+            {"word": "सत्त्वम्", "case": "Nominative"},
+            {"word": "गुणाः", "case": "Nominative Plural"},
+            {"word": "प्रकृतिसम्भवाः", "case": "Nominative Plural"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_14.6",
+        "text_raw": "तत्र सत्त्वं निर्मलत्वात्प्रकाशकमनामयम् ।",
+        "text_split": ["तत्र", "सत्त्वम्", "निर्मलत्वात्", "प्रकाशकम्", "अनामयम्"],
+        "analysis": [
+            {"word": "सत्त्वम्", "case": "Nominative"},
+            {"word": "निर्मलत्वात्", "case": "Ablative"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_14.7",
+        "text_raw": "रजो रागात्मकं विद्धि तृष्णासङ्गसमुद्भवम् ।",
+        "text_split": ["रजः", "रागात्मकम्", "विद्धि", "तृष्णासङ्गसमुद्भवम्"],
+        "analysis": [
+            {"word": "रजः", "case": "Nominative"},
+            {"word": "रागात्मकम्", "case": "Accusative"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_14.8",
+        "text_raw": "तमस्त्वज्ञानजं विद्धि मोहनं सर्वदेहिनाम् ।",
+        "text_split": ["तमः", "तु", "अज्ञानजम्", "विद्धि", "मोहनम्", "सर्वदेहिनाम्"],
+        "analysis": [
+            {"word": "तमः", "case": "Nominative"},
+            {"word": "अज्ञानजम्", "case": "Accusative"},
+            {"word": "सर्वदेहिनाम्", "case": "Genitive Plural"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_15.7",
+        "text_raw": "ममैवांशो जीवलोके जीवभूतः सनातनः ।",
+        "text_split": ["मम", "एव", "अंशः", "जीवलोके", "जीवभूतः", "सनातनः"],
+        "analysis": [
+            {"word": "मम", "case": "Genitive"},
+            {"word": "अंशः", "case": "Nominative"},
+            {"word": "जीवलोके", "case": "Locative"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_16.1",
+        "text_raw": "अभयं सत्त्वसंशुद्धिर्ज्ञानयोगव्यवस्थितिः ।",
+        "text_split": ["अभयम्", "सत्त्वसंशुद्धिः", "ज्ञानयोगव्यवस्थितिः"],
+        "analysis": [
+            {"word": "अभयम्", "case": "Nominative"},
+            {"word": "सत्त्वसंशुद्धिः", "case": "Nominative"},
+            {"word": "ज्ञानयोगव्यवस्थितिः", "case": "Nominative"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    },
+    {
+        "verse_id": "BG_18.66",
+        "text_raw": "सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज ।",
+        "text_split": ["सर्वधर्मान्", "परित्यज्य", "माम्", "एकम्", "शरणम्", "व्रज"],
+        "analysis": [
+            {"word": "सर्वधर्मान्", "case": "Accusative Plural"},
+            {"word": "माम्", "case": "Accusative"},
+            {"word": "शरणम्", "case": "Accusative"}
+        ],
+        "llm_prediction": null,
+        "is_conflict": false
+    }
+]
+
+
